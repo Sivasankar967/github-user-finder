@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# 🟣 GitHub User Finder
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A modern GitHub user search application built with React, Material-UI, and Redux Toolkit. Search for any GitHub user and explore their profile, repositories, and statistics.
 
 # 🟣 GitHub User Finder
 
