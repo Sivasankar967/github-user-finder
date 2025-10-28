@@ -1,6 +1,3 @@
-# 🟣 GitHub User Finder
-
-A modern GitHub user search application built with React, Material-UI, and Redux Toolkit. Search for any GitHub user and explore their profile, repositories, and statistics.
 
 # 🟣 GitHub User Finder
 
