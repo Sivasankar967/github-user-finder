@@ -177,15 +177,7 @@ setTimeout(() => fetchUserData(value), 500);
 - Rate limit warnings (GitHub API: 60 req/hour)
 - Graceful fallbacks for missing data
 
-## 🚦 Future Enhancements
 
-- [ ] Search history
-- [ ] Compare multiple users
-- [ ] Repository filtering/sorting
-- [ ] Contribution graph
-- [ ] Share profile links
-- [ ] Export profile data
-- [ ] Advanced search filters
 
 
 
